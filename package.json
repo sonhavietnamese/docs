@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "My Next.js App",
   "scripts": {
+    "build": "echo \"Build\"",
     "start": "mintlify dev"
   },
   "dependencies": {
