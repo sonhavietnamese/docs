@@ -1,0 +1,12 @@
+{
+  "name": "my-nextjs-app",
+  "version": "1.0.0",
+  "description": "My Next.js App",
+  "scripts": {
+    "start": "mintlify dev"
+  },
+  "dependencies": {
+    "mintlify": "^4.0.195"
+  },
+  "devDependencies": {}
+}
